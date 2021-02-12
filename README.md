@@ -6,4 +6,4 @@ O projeto foi desenvolvido durante a realização de um curso de introdução à
 
 ## Tecnologia Utilizada
 
-- HTML;
+- [HTML](https://tableless.com.br/o-que-html-basico/)
